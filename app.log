@@ -1,0 +1,7 @@
+2024-12-09 20:58:26,440 - DEBUG - This is a debug message - useful for troubleshooting.
+2024-12-09 20:58:26,440 - INFO - This is an info message - general application information.
+2024-12-09 20:58:26,440 - WARNING - This is a warning message - something might go wrong.
+2024-12-09 20:58:26,440 - ERROR - This is an error message - something went wrong.
+2024-12-09 20:58:26,440 - CRITICAL - This is a critical message - serious error occurred.
+2024-12-09 20:58:26,440 - INFO - Division successful: 10 / 2 = 5.0
+2024-12-09 20:58:26,441 - ERROR - Attempted to divide by zero!
